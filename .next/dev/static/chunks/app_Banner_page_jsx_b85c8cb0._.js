@@ -21,11 +21,11 @@ var _s = __turbopack_context__.k.signature();
 function Home() {
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(18);
-    if ($[0] !== "b0e34c540027d61efeed858e922cc678a927fd9c976f06e8b7c30ce3122e1414") {
+    if ($[0] !== "faf70a9109693e6697665e1d0ebd0d54b657a642771952c456f4f419c4c964db") {
         for(let $i = 0; $i < 18; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "b0e34c540027d61efeed858e922cc678a927fd9c976f06e8b7c30ce3122e1414";
+        $[0] = "faf70a9109693e6697665e1d0ebd0d54b657a642771952c456f4f419c4c964db";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -96,34 +96,34 @@ function Home() {
                 t3,
                 t4,
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "space-x-4",
+                    className: "flex flex-col items-center sm:flex-row sm:justify-center sm:space-x-2 space-y-2 sm:space-y-0",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: "/jobs",
-                            className: "bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-6 md:py-3 md:text-base",
+                            className: "bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-3 md:py-2 md:text-base",
                             children: "Find Jobs"
                         }, void 0, false, {
                             fileName: "[project]/app/Banner/page.jsx",
                             lineNumber: 64,
-                            columnNumber: 71
+                            columnNumber: 154
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: "/post_job",
-                            className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base",
-                            children: "Post a Job"
+                            className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base",
+                            children: "Post Job"
                         }, void 0, false, {
                             fileName: "[project]/app/Banner/page.jsx",
                             lineNumber: 64,
-                            columnNumber: 240
+                            columnNumber: 323
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: "/about",
-                            className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base md:hidden",
+                            className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base md:hidden",
                             children: "About"
                         }, void 0, false, {
                             fileName: "[project]/app/Banner/page.jsx",
                             lineNumber: 64,
-                            columnNumber: 427
+                            columnNumber: 508
                         }, this)
                     ]
                 }, void 0, true, {

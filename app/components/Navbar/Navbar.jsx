@@ -8,8 +8,8 @@ export default function Navbar() {
 
   const links = [
     { name: "Home", href: "/" },
-    { name: "Post a Job", href: "/post_job" },
-     { name: "About", href: "/about" },
+    { name: "Post Job", href: "/post_job" },
+    { name: "About", href: "/about" },
   ];
 
   return (
@@ -18,10 +18,11 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           href="/"
-          className="text-2xl font-bold text-green-600 tracking-tight"
+          className="text-xl sm:text-2xl font-bold text-green-600 tracking-tight sm:tracking-normal"
         >
           Remote<span className="text-gray-800">worknaija</span>
         </Link>
+
 
         {/* Navigation Links */}
         <div className="space-x-6 hidden md:flex">
@@ -29,11 +30,10 @@ export default function Navbar() {
             <Link
               key={link.name}
               href={link.href}
-              className={`font-medium ${
-                pathname === link.href
+              className={`font-medium ${pathname === link.href
                   ? "text-blue-600"
                   : "text-gray-700 hover:text-blue-600 transition-colors"
-              }`}
+                }`}
             >
               {link.name}
             </Link>

@@ -138,11 +138,11 @@ function Home() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "space-x-4",
+                                className: "flex flex-col items-center sm:flex-row sm:justify-center sm:space-x-2 space-y-2 sm:space-y-0",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/jobs",
-                                        className: "bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-6 md:py-3 md:text-base",
+                                        className: "bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-3 md:py-2 md:text-base",
                                         children: "Find Jobs"
                                     }, void 0, false, {
                                         fileName: "[project]/app/Banner/page.jsx",
@@ -151,8 +151,8 @@ function Home() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/post_job",
-                                        className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base",
-                                        children: "Post a Job"
+                                        className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base",
+                                        children: "Post Job"
                                     }, void 0, false, {
                                         fileName: "[project]/app/Banner/page.jsx",
                                         lineNumber: 41,
@@ -160,7 +160,7 @@ function Home() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/about",
-                                        className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base md:hidden",
+                                        className: "border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base md:hidden",
                                         children: "About"
                                     }, void 0, false, {
                                         fileName: "[project]/app/Banner/page.jsx",

@@ -29,25 +29,25 @@ export default function Home() {
           <p className="text-gray-600 mb-6">
             Discover verified opportunities from trusted companies — work from anywhere, get paid globally.
           </p>
-          <div className="space-x-4">
+          <div className="flex flex-col items-center sm:flex-row sm:justify-center sm:space-x-2 space-y-2 sm:space-y-0">
 
             <Link
               href="/jobs"
-              className="bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-6 md:py-3 md:text-base"
+              className="bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-3 md:py-2 md:text-base"
             >
               Find Jobs
             </Link>
 
             <Link
               href="/post_job"
-              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base"
+              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base"
             >
-              Post a Job
+              Post Job
             </Link>
 
             <Link
               href="/about"
-              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base md:hidden"
+              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-3 md:py-2 md:text-base md:hidden"
             >
               About
             </Link>

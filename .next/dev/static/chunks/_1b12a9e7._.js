@@ -19,11 +19,11 @@ var _s = __turbopack_context__.k.signature();
 function Navbar() {
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(8);
-    if ($[0] !== "148163756325620cd5857485cee3e8c0e81c356099da25540213ed6d58cffc61") {
+    if ($[0] !== "bc51ea2dc7cb2de06b902c13d3b1c70d448b004b744a4f3d35d56d2b86c2a99d") {
         for(let $i = 0; $i < 8; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "148163756325620cd5857485cee3e8c0e81c356099da25540213ed6d58cffc61";
+        $[0] = "bc51ea2dc7cb2de06b902c13d3b1c70d448b004b744a4f3d35d56d2b86c2a99d";
     }
     const pathname = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["usePathname"])();
     let t0;
@@ -34,7 +34,7 @@ function Navbar() {
                 href: "/"
             },
             {
-                name: "Post a Job",
+                name: "Post Job",
                 href: "/post_job"
             },
             {
@@ -51,7 +51,7 @@ function Navbar() {
     if ($[2] === Symbol.for("react.memo_cache_sentinel")) {
         t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
             href: "/",
-            className: "text-2xl font-bold text-green-600 tracking-tight",
+            className: "text-xl sm:text-2xl font-bold text-green-600 tracking-tight sm:tracking-normal",
             children: [
                 "Remote",
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -60,7 +60,7 @@ function Navbar() {
                 }, void 0, false, {
                     fileName: "[project]/app/components/Navbar/Navbar.jsx",
                     lineNumber: 34,
-                    columnNumber: 92
+                    columnNumber: 122
                 }, this)
             ]
         }, void 0, true, {
