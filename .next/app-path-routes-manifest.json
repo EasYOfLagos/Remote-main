@@ -1,0 +1,14 @@
+{
+  "/Banner/page": "/Banner",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/favicon.ico/route": "/favicon.ico",
+  "/jobs/[id]/apply/page": "/jobs/[id]/apply",
+  "/jobs/[id]/page": "/jobs/[id]",
+  "/jobs/page": "/jobs",
+  "/login/page": "/login",
+  "/page": "/",
+  "/post_job/page": "/post_job",
+  "/signup/page": "/signup"
+}

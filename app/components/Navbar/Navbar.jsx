@@ -9,6 +9,7 @@ export default function Navbar() {
   const links = [
     { name: "Home", href: "/" },
     { name: "Post a Job", href: "/post_job" },
+     { name: "About", href: "/about" },
   ];
 
   return (
@@ -17,9 +18,9 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           href="/"
-          className="text-2xl font-bold text-blue-600 tracking-tight"
+          className="text-2xl font-bold text-green-600 tracking-tight"
         >
-          Remote<span className="text-gray-800">JobsNG</span>
+          Remote<span className="text-gray-800">worknaija</span>
         </Link>
 
         {/* Navigation Links */}

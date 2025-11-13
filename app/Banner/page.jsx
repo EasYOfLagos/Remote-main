@@ -30,19 +30,29 @@ export default function Home() {
             Discover verified opportunities from trusted companies — work from anywhere, get paid globally.
           </p>
           <div className="space-x-4">
+
             <Link
               href="/jobs"
-              className="bg-blue-600 text-white px-6 py-3 rounded-xl font-medium hover:bg-blue-700 transition"
+              className="bg-blue-600 text-white px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-700 transition md:px-6 md:py-3 md:text-base"
             >
               Find Jobs
             </Link>
 
             <Link
               href="/post_job"
-              className="border border-blue-600 text-blue-600 px-6 py-3 rounded-xl font-medium hover:bg-blue-50 transition"
+              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base"
             >
               Post a Job
             </Link>
+
+            <Link
+              href="/about"
+              className="border border-blue-600 text-blue-600 px-4 py-2 text-sm rounded-xl font-medium hover:bg-blue-50 transition md:px-6 md:py-3 md:text-base md:hidden"
+            >
+              About
+            </Link>
+
+
           </div>
         </div>
 
@@ -114,7 +124,7 @@ export default function Home() {
       {/* Why Section */}
       <section className="bg-white py-20">
         <h2 className="text-2xl font-bold text-center text-gray-900 mb-12">
-          Why Choose RemoteJobsNG?
+          Why Choose RemoteWorkNaija?
         </h2>
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto px-4">
           {[
@@ -132,7 +142,7 @@ export default function Home() {
       </section>
 
       <footer className="text-center text-gray-400 text-sm py-8">
-        © 2025 RemoteJobsNG — Made with ❤️ in Nigeria
+        © 2025 RemoteJobsNG — Design By EasYOfLagos
       </footer>
     </div>
   );

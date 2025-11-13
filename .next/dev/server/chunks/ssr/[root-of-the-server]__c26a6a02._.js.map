@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DEV-OLAJUMOKE/Desktop/Remote/my-app/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimport Banner from \"./\"\n\nexport default function Home() {\n  return (\n    <div className=\"\">\n      <Banner/>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;;;;;;;AAGe,SAAS;IACtB,qBACE,2PAAC;QAAI,WAAU;kBACb,cAAA,2PAAC;;;;;;;;;;AAGP","debugId":null}}]
+}

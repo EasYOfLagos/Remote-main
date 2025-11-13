@@ -1,0 +1,3 @@
+module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},61461,a=>{a.n(a.i(39460))},96818,a=>{a.n(a.i(53611))},30921,a=>{a.n(a.i(31651))},83566,a=>{a.n(a.i(64374))},26976,a=>{a.n(a.i(61072))},4921,a=>{"use strict";var b=a.i(27104);a.i(93408),a.s(["default",0,function(){return(0,b.jsx)("div",{className:"bg-red-800",children:"This is About page and it's all meant for testing"})}])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__47cf3330._.js.map
