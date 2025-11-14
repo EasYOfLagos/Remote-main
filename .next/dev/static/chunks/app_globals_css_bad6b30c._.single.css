@@ -1416,6 +1416,12 @@
   }
 
   @media (prefers-color-scheme: dark) {
+    .dark\:text-blue-600 {
+      color: var(--color-blue-600);
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
     .dark\:text-gray-300 {
       color: var(--color-gray-300);
     }

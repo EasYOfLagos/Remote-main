@@ -38,7 +38,7 @@ function page() {
                     className: "max-w-[1200px] mx-auto px-6 text-center",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "inline-flex items-center justify-center h-7 px-[14px] mb-8 rounded-full text-xs font-poppins tracking-[1.3px] uppercase bg-gradient-to-r from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] text-white",
+                            className: "inline-flex items-center justify-center h-7 px-[14px] mb-8 rounded-full text-xs font-poppins tracking-[1.3px] uppercase bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] text-white",
                             children: "ABOUT US"
                         }, void 0, false, {
                             fileName: "[project]/app/about/page.js",
@@ -55,7 +55,7 @@ function page() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "bg-gradient-to-r from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] bg-clip-text text-transparent",
+                                    className: "bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] bg-clip-text text-transparent",
                                     children: "opportunity"
                                 }, void 0, false, {
                                     fileName: "[project]/app/about/page.js",
@@ -164,7 +164,7 @@ function page() {
                                                 className: "text-center",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-3xl font-bold text-[#FF7A18] dark:text-[#FF8A28] mb-2",
+                                                        className: "text-3xl font-bold text-blue-600 dark:text-[#FF8A28] mb-2",
                                                         children: "50K+"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/about/page.js",
@@ -189,7 +189,7 @@ function page() {
                                                 className: "text-center",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-3xl font-bold text-[#FF7A18] dark:text-[#FF8A28] mb-2",
+                                                        className: "text-3xl font-bold text-blue-600 dark:text-[#FF8A28] mb-2",
                                                         children: "1.2K+"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/about/page.js",
@@ -214,7 +214,7 @@ function page() {
                                                 className: "text-center",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-3xl font-bold text-[#FF7A18] dark:text-[#FF8A28] mb-2",
+                                                        className: "text-3xl font-bold text-blue-600 dark:text-[#FF8A28] mb-2",
                                                         children: "350+"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/about/page.js",
@@ -239,7 +239,7 @@ function page() {
                                                 className: "text-center",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-3xl font-bold text-[#FF7A18] dark:text-[#FF8A28] mb-2",
+                                                        className: "text-3xl font-bold text-blue-600 dark:text-[#FF8A28] mb-2",
                                                         children: "89%"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/about/page.js",
@@ -317,7 +317,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-8 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
+                                                className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__["Target"], {
                                                     className: "w-6 h-6 text-white"
                                                 }, void 0, false, {
@@ -356,7 +356,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-8 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
+                                                className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
                                                     className: "w-6 h-6 text-white"
                                                 }, void 0, false, {
@@ -395,7 +395,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-8 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
+                                                className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"], {
                                                     className: "w-6 h-6 text-white"
                                                 }, void 0, false, {
@@ -434,7 +434,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-8 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
+                                                className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mx-auto mb-4",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$award$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Award$3e$__["Award"], {
                                                     className: "w-6 h-6 text-white"
                                                 }, void 0, false, {
@@ -519,7 +519,7 @@ function page() {
                                                 className: "flex items-center mb-6",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mr-4",
+                                                        className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mr-4",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"], {
                                                             className: "w-6 h-6 text-white"
                                                         }, void 0, false, {
@@ -553,7 +553,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 165,
@@ -593,7 +593,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 172,
@@ -633,7 +633,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 179,
@@ -673,7 +673,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 186,
@@ -728,7 +728,7 @@ function page() {
                                                 className: "flex items-center mb-6",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "w-12 h-12 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mr-4",
+                                                        className: "w-12 h-12 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-xl flex items-center justify-center mr-4",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$award$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Award$3e$__["Award"], {
                                                             className: "w-6 h-6 text-white"
                                                         }, void 0, false, {
@@ -762,7 +762,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 206,
@@ -802,7 +802,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 213,
@@ -842,7 +842,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 220,
@@ -882,7 +882,7 @@ function page() {
                                                         className: "flex items-start",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-2 h-2 bg-[#FF7A18] dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
+                                                                className: "w-2 h-2 bg-blue-600 dark:bg-[#FF8A28] rounded-full mt-2 mr-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/about/page.js",
                                                                 lineNumber: 227,
@@ -971,13 +971,13 @@ function page() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8",
+                                className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-6 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-20 h-20 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
+                                                className: "w-20 h-20 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
                                                 children: "AB"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -993,7 +993,7 @@ function page() {
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-[#FF7A18] dark:text-[#FF8A28] font-medium mb-3",
+                                                className: "text-blue-600 dark:text-[#FF8A28] font-medium mb-3",
                                                 children: "Founder & CEO"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -1018,7 +1018,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-6 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-20 h-20 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
+                                                className: "w-20 h-20 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
                                                 children: "SM"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -1034,7 +1034,7 @@ function page() {
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-[#FF7A18] dark:text-[#FF8A28] font-medium mb-3",
+                                                className: "text-blue-600 dark:text-[#FF8A28] font-medium mb-3",
                                                 children: "Head of Operations"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -1059,7 +1059,7 @@ function page() {
                                         className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-6 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-20 h-20 bg-gradient-to-br from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
+                                                className: "w-20 h-20 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
                                                 children: "IB"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -1075,7 +1075,7 @@ function page() {
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-[#FF7A18] dark:text-[#FF8A28] font-medium mb-3",
+                                                className: "text-blue-600 dark:text-[#FF8A28] font-medium mb-3",
                                                 children: "Lead Developer"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
@@ -1095,6 +1095,47 @@ function page() {
                                         fileName: "[project]/app/about/page.js",
                                         lineNumber: 272,
                                         columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "bg-white dark:bg-[#1E1E1E] rounded-2xl p-6 border border-[#E5E5E5] dark:border-[#333333] shadow-sm text-center",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "w-20 h-20 bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl text-white",
+                                                children: "S"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/about/page.js",
+                                                lineNumber: 284,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                className: "text-xl font-semibold text-black dark:text-white mb-1",
+                                                children: "Saheed "
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/about/page.js",
+                                                lineNumber: 287,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-blue-600 dark:text-[#FF8A28] font-medium mb-3",
+                                                children: "Techincal Lead Developer"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/about/page.js",
+                                                lineNumber: 288,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-gray-600 dark:text-gray-400 text-sm",
+                                                children: "Builds and maintains our cutting-edge technology platform"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/about/page.js",
+                                                lineNumber: 289,
+                                                columnNumber: 15
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/app/about/page.js",
+                                        lineNumber: 283,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -1109,7 +1150,7 @@ function page() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "bg-gradient-to-r from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-2xl p-8 md:p-12",
+                        className: "bg-blue-600 from-[#FF7A18] to-[#FFB56B] dark:from-[#FF8A28] dark:to-[#FFC57B] rounded-2xl p-8 md:p-12",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "text-center text-white mb-8",
@@ -1119,7 +1160,7 @@ function page() {
                                         children: "Get In Touch"
                                     }, void 0, false, {
                                         fileName: "[project]/app/about/page.js",
-                                        lineNumber: 288,
+                                        lineNumber: 302,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1127,13 +1168,13 @@ function page() {
                                         children: "Have questions or want to learn more? We'd love to hear from you"
                                     }, void 0, false, {
                                         fileName: "[project]/app/about/page.js",
-                                        lineNumber: 291,
+                                        lineNumber: 305,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/about/page.js",
-                                lineNumber: 287,
+                                lineNumber: 301,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1148,12 +1189,12 @@ function page() {
                                                     className: "w-6 h-6"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/about/page.js",
-                                                    lineNumber: 299,
+                                                    lineNumber: 313,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 298,
+                                                lineNumber: 312,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1161,7 +1202,7 @@ function page() {
                                                 children: "Location"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 301,
+                                                lineNumber: 315,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1169,13 +1210,13 @@ function page() {
                                                 children: "Lagos, Nigeria"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 302,
+                                                lineNumber: 316,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/about/page.js",
-                                        lineNumber: 297,
+                                        lineNumber: 311,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1187,12 +1228,12 @@ function page() {
                                                     className: "w-6 h-6"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/about/page.js",
-                                                    lineNumber: 307,
+                                                    lineNumber: 321,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 306,
+                                                lineNumber: 320,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1200,7 +1241,7 @@ function page() {
                                                 children: "Email"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 309,
+                                                lineNumber: 323,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1208,13 +1249,13 @@ function page() {
                                                 children: "abbeybakare10@gmail.com"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 310,
+                                                lineNumber: 324,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/about/page.js",
-                                        lineNumber: 305,
+                                        lineNumber: 319,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1226,12 +1267,12 @@ function page() {
                                                     className: "w-6 h-6"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/about/page.js",
-                                                    lineNumber: 315,
+                                                    lineNumber: 329,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 314,
+                                                lineNumber: 328,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1239,7 +1280,7 @@ function page() {
                                                 children: "Phone"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 317,
+                                                lineNumber: 331,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1247,41 +1288,41 @@ function page() {
                                                 children: "+234 703 064 9992"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/about/page.js",
-                                                lineNumber: 318,
+                                                lineNumber: 332,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/about/page.js",
-                                        lineNumber: 313,
+                                        lineNumber: 327,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/about/page.js",
-                                lineNumber: 296,
+                                lineNumber: 310,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "text-center",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "/post_job",
-                                    className: "inline-flex items-center justify-center h-12 px-8 bg-white text-[#FF7A18] rounded-xl font-inter font-semibold hover:bg-gray-100 transition-colors duration-200",
+                                    className: "inline-flex items-center justify-center h-12 px-8 bg-white text-blue-600 rounded-xl font-inter font-semibold hover:bg-gray-100 transition-colors duration-200",
                                     children: "Start Hiring Today"
                                 }, void 0, false, {
                                     fileName: "[project]/app/about/page.js",
-                                    lineNumber: 323,
+                                    lineNumber: 337,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/about/page.js",
-                                lineNumber: 322,
+                                lineNumber: 336,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/about/page.js",
-                        lineNumber: 286,
+                        lineNumber: 300,
                         columnNumber: 9
                     }, this)
                 ]
@@ -1295,7 +1336,7 @@ function page() {
                 rel: "stylesheet"
             }, void 0, false, {
                 fileName: "[project]/app/about/page.js",
-                lineNumber: 331,
+                lineNumber: 345,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("style", {
@@ -1324,7 +1365,7 @@ function page() {
                 }
             }, void 0, false, {
                 fileName: "[project]/app/about/page.js",
-                lineNumber: 336,
+                lineNumber: 350,
                 columnNumber: 7
             }, this)
         ]
