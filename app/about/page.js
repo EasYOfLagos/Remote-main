@@ -287,7 +287,7 @@ function page() {
               <h3 className="text-xl font-semibold text-black dark:text-white mb-1">Saheed </h3>
               <p className="text-blue-600 dark:text-[#FF8A28] font-medium mb-3">Techincal Lead Developer</p>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
-                Builds and maintains our cutting-edge technology platform
+                Driving engineering excellence and end-to-end product delivery.
               </p>
             </div>
             
